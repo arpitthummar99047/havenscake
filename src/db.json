@@ -1,0 +1,147 @@
+{
+  "cakeData": [
+    {
+      "BirthdayCake": [
+        {
+          "id": 1,
+          "title": "Coco Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221205145838/cream-drop-chocolate-cake-half-kg-eggless_1.jpg",
+          "price": "26$"
+        },
+        {
+          "id": 2,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221221115007/decorated-chocolate-truffle-cake-half-kg-eggless_1.jpg",
+          "price": "20$"
+        },
+        {
+          "id": 3,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221214145642/chocolate-truffle-cream-cake-half-kg-eggless_1.jpg",
+          "price": "75$"
+        },
+        {
+          "id": 4,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221205145625/blueberry-glaze-cake-half-kg-eggless_1.jpg",
+          "price": "26$"
+        },
+        {
+          "id": 5,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221130121855/butterscotch-cake-with-rasmalai-1kg-eggless_1.jpg",
+          "price": "20$"
+        },
+        {
+          "id": 6,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20230601125829/golden-butterscotch-fantasy_1.jpg",
+          "price": "75$"
+        },
+        {
+          "id": 7,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221205145933/floral-vanilla-cream-cake-half-kg-eggless_1.jpg",
+          "price": "26$"
+        },
+        {
+          "id": 8,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20190924092349/delicious-pineapple-cake-half-kg-eggless_1.jpg",
+          "price": "20$"
+        },
+        {
+          "id": 9,
+          "title": "Birthday Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20210118212408/roses-on-top-pineapple-designer-cake-half-kg-eggless_1.jpg",
+          "price": "75$"
+        }
+      ],
+      "customCake": [
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20211026130607/football-theme-chocolate-cake-eggless-1-kg_1.jpg",
+          "price": "30$"
+        },
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221118132354/yummy-choco-walnut-cake-jar-set-of-2_1.jpg",
+          "price": "30$"
+        },
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20200901115357/sweet-cat-design-cake-butterscotch-1-kg-eggless_1.jpg",
+          "price": "30$"
+        },
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221201132759/two-tier-rainbow-truffle-cake-4-kg-eggless_1.jpg",
+          "price": "30$"
+        },
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221205145125/black-forest-cream-cake-jar-set-of-4_1.jpg",
+          "price": "30$"
+        },
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221205145317/blueberry-cream-cake-jar-eggless-set-of-4_1.jpg",
+          "price": "30$"
+        },
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20221201132703/mixed-fruit-delicious-dry-cake-1-kg_1.jpg",
+          "price": "30$"
+        },
+        {
+          "title": "Custom Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20200901114307/bunny-chocolate-cake-1-kg-eggless_1.jpg",
+          "price": "30$"
+        }
+      ],
+      "weddingCake": [
+        {
+          "title": "Wedding Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20210630205540/red-velvet-heart-cake-half-kg_1.jpg",
+          "price": "35$"
+        },
+        {
+          "title": "Wedding Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20230406130236/floral-fantasy-chocolate-cake-15-kg-eggless_1.jpg",
+          "price": "40$"
+        },
+        {
+          "title": "Wedding Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20170522102444/flamboyant-barbie-cake-butterscotch-2kg_1.jpg",
+          "price": "40$"
+        },
+        {
+          "title": "Wedding Cake",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "imageUrl": "https://www.fnp.com/images/pr/l/v20230406130236/floral-fantasy-chocolate-cake-15-kg-eggless_1.jpg",
+          "price": "40$"
+        }
+      ]
+    }
+  ]
+}

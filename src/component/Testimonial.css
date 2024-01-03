@@ -1,0 +1,120 @@
+/* Testimonial carousel styles */
+.testimonial-carousel {
+  margin-top: 30px;
+}
+
+.testimonial-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  background-color: black; /* Dark background */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  opacity: 0.8;
+  transition: opacity 0.5s, transform 0.3s;
+  transform-origin: center bottom;
+}
+
+.testimonial-item.active {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+.imageex {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.slick-dots {
+  height: 45px;
+  margin-top: 30px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.slick-dots li {
+  margin-top: 50px;
+  position: relative;
+  display: inline-block;
+  /* Add units (e.g., px) for margin */
+  margin: 0 2px; /* Change margin to 0 on top and bottom */
+  width: 40px;
+  height: 5px;
+  background: #dddddd;
+  transition: 0.5;
+}
+
+.slick-dots li.slick-active {
+  height: 5px;
+  width: 40px;
+  cursor: pointer;
+  background: var(--primary);
+  margin-top: 40px;
+}
+
+.slick-slider .slick-center .testimonial-item {
+  opacity: 1;
+}
+
+.slick-dots li button:before {
+  font-family: "slick";
+  display: none;
+  position: relative;
+  top: 10px;
+  left: 0;
+  width: 10px;
+  height: 20px;
+  content: "";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Media queries for responsiveness */
+
+/* Small screens (up to 576px) */
+@media (max-width: 576px) {
+  .testimonial-carousel {
+    margin-top: 15px;
+  }
+
+  .testimonial-item {
+    padding: 15px;
+    opacity: 1;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .imageex {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 5px;
+  }
+}
+
+/* Medium screens (577px to 992px) */
+@media (min-width: 577px) and (max-width: 992px) {
+  .testimonial-carousel {
+    margin-top: 20px;
+  }
+
+  .testimonial-item {
+    padding: 18px;
+  }
+
+  .imageex {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 8px;
+  }
+}
+
+@media screen and (orientation: landscape) {
+  .carousel img {
+    height: 100vh;
+  }
+}
